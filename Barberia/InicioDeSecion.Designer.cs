@@ -1,6 +1,6 @@
 ﻿namespace Barberia
 {
-    partial class Form1
+    partial class InicioDeSecion
     {
         /// <summary>
         ///  Required designer variable.

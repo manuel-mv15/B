@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7248FF50-2B35-4592-B15A-56A32616906C}|Barberia\\Barberia.csproj|c:\\users\\carlo\\source\\repos\\programacion 2\\computo 3\\parcial 3\\barberia\\barberia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7248FF50-2B35-4592-B15A-56A32616906C}|Barberia\\Barberia.csproj|c:\\users\\carlo\\source\\repos\\programacion 2\\computo 3\\barberia\\barberia\\conexcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248FF50-2B35-4592-B15A-56A32616906C}|Barberia\\Barberia.csproj|solutionrelative:barberia\\conexcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248FF50-2B35-4592-B15A-56A32616906C}|Barberia\\Barberia.csproj|c:\\users\\carlo\\source\\repos\\programacion 2\\computo 3\\barberia\\barberia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7248FF50-2B35-4592-B15A-56A32616906C}|Barberia\\Barberia.csproj|solutionrelative:barberia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -35,10 +39,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conexcion.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Conexcion.cs",
+              "RelativeDocumentMoniker": "Barberia\\Conexcion.cs",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Conexcion.cs",
+              "RelativeToolTip": "Barberia\\Conexcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:59:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Form1.cs",
               "RelativeDocumentMoniker": "Barberia\\Form1.cs",
-              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Barberia\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T21:44:33.512Z",

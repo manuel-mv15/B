@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Barberia.csproj": {}
+    "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Barberia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Barberia.csproj": {
+    "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Barberia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Barberia.csproj",
+        "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Barberia.csproj",
         "projectName": "Barberia",
-        "projectPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\Barberia.csproj",
+        "projectPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\Barberia.csproj",
         "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Parcial 3\\Barberia\\Barberia\\obj\\",
+        "outputPath": "C:\\Users\\Carlo\\source\\repos\\Programacion 2\\computo 3\\Barberia\\Barberia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
